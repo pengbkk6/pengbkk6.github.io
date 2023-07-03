@@ -1,12 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am from the School of Computer Science（ https://cee.hutb.edu.cn/ ）, [Hunan University of Technology and Business]（ https://www.hutb.edu.cn/ ）A third year undergraduate student. My research interests include front-end development and design, WeChat mini program development, and data analysis.
 
